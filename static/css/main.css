@@ -1,0 +1,10 @@
+:root {
+  --prussian-blue: #0B3C5D;
+  --sky-color: #328CC1;
+  --gold-leaf: #D9B310;
+  --ivory-black: #1D2731;
+}
+
+* {
+  box-sizing: border-box;
+}

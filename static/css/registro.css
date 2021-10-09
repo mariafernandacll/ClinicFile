@@ -1,0 +1,43 @@
+@import url('./main.css');
+@import url('./resultado_busqueda.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+form{
+    width: 750px;
+    padding: 16px;
+    border-radius: 15px;
+    margin:auto;
+    background-color:white;
+}
+.botones{
+    text-align: center;
+    color:white;
+    background-color:#0B3C5D;
+    border-radius: 7px;
+}
+nav{
+    background-color:white}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.iconhome {
+    width: 35%;
+    margin-top: 0px;
+    margin-left: 350px;
+    position: absolute; left: 830px; top: 30px;
+    background-color: transparent;
+}
+.iconuser {
+    width: 35%;
+    margin-top: 0px;
+    margin-left: 350px;
+    position: absolute; left: 770px; top: 32px;
+    background-color: transparent;
+}
+h2 {
+    text-align: center;
+}
